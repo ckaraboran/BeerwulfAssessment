@@ -1,4 +1,17 @@
 # Beerwulf Backend Developer Assessment
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ckaraboran_BeerwulfAssessment&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ckaraboran_BeerwulfAssessment)
+[![Sonar Cube Static Analysis](https://sonarcloud.io/api/project_badges/measure?project=ckaraboran_BeerwulfAssessment&metric=ncloc)](https://sonarcloud.io/dashboard?id=ckaraboran_BeerwulfAssessment)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ckaraboran_BeerwulfAssessment&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ckaraboran_BeerwulfAssessment)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ckaraboran_BeerwulfAssessment&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=ckaraboran_BeerwulfAssessment)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=ckaraboran_BeerwulfAssessment&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=ckaraboran_BeerwulfAssessment)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ckaraboran_BeerwulfAssessment&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ckaraboran_BeerwulfAssessment)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ckaraboran_BeerwulfAssessment&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ckaraboran_BeerwulfAssessment)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ckaraboran_BeerwulfAssessment&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ckaraboran_BeerwulfAssessment)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ckaraboran_BeerwulfAssessment&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ckaraboran_BeerwulfAssessment)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ckaraboran_BeerwulfAssessment&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ckaraboran_BeerwulfAssessment)
+[![Build](https://github.com/Luxury-Sapanca/Boilerplate/actions/workflows/build.yml/badge.svg)](https://github.com/Luxury-Sapanca/Boilerplate/actions/workflows/build.yml)
+
 Thank you for taking the time to complete this coding assessment. We did some of the heavy lifting for you already by creating a project skeleton that you can use as a starting point. The assessment is purposefully simple which means we'll be paying special mind to best practises, code clarity and project structure. Try to stand out by delivering the best you can for this simple application.
 
 ## Assessment details
