@@ -44,3 +44,6 @@ We would like your solution include the following:
 Please use our skeleton as a starting point, but don't be afraid to show off your solution arthitecture skills by creating a clever project scaffolding.
 
 Best of luck, potential Wulfie! ;)
+
+
+Details:
