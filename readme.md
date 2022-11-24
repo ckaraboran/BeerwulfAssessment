@@ -46,4 +46,4 @@ Please use our skeleton as a starting point, but don't be afraid to show off you
 Best of luck, potential Wulfie! ;)
 
 
-Details:
+Details 2:
